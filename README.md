@@ -59,3 +59,7 @@ Continual optimization of object detection models is essential to address perfor
 
 
 ![image](https://github.com/jashwanthneeli/Yolo-Object-detection-and-image-tracking-/assets/76511089/2007085c-a962-461d-afad-9f88439d0730)
+
+
+
+![frame_2578](https://github.com/jashwanthneeli/Yolo-Object-detection-and-image-tracking-/assets/76511089/8ae53753-7582-4957-a712-ad0dcbcc7ee2)
